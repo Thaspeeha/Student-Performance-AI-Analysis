@@ -1,12 +1,10 @@
 # 🎓 Student Performance AI Analysis
 
 <p align="center">
-
 ![AWS](https://img.shields.io/badge/AWS-PartyRock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![AI Analysis](https://img.shields.io/badge/AI-Student%20Performance-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
 </p>
 
 ---
