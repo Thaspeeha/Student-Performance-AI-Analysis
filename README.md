@@ -49,7 +49,7 @@
 
 ---
 
-## ✅ What I Did Well (95%+ Accuracy)
+## ✅ What AI Did Well (95%+ Accuracy)
 
 ✔️ **Mathematical Precision**
 
@@ -89,7 +89,7 @@ The rankings of factors by impact are objectively supported by the score ranges:
 
 ---
 
-## ⚠️ Where I Was Cautious (100% Honest)
+## ⚠️ Where AI Was Cautious (100% Honest)
 
 ### 🔸 Causation vs Correlation
 
