@@ -1,0 +1,21 @@
+factor_category,factor_level,avg_score,min_score,max_score,student_count,pct_top_grades,pct_failing
+Study Hours,Very High (6+ hrs),85.4,58.7,100,6865,52.4,0
+Study Hours,High (4-6 hrs),69.62,43.5,96.2,6727,4.5,0
+Study Hours,Medium (2-4 hrs),53.88,26.5,80.2,6504,0,7.4
+Study Hours,Low (< 2 hrs),39.79,14.5,62.3,4904,0,50.5
+Attendance,Very High (90%+),71.24,31.8,100,4995,25.9,2.9
+Attendance,High (75-90%),67.24,24.9,100,7557,20.4,7
+Attendance,Medium (60-75%),61.07,18.6,100,7524,10.8,15.1
+Attendance,Low (< 60%),56.18,14.5,95.9,4924,5.2,23.2
+Study Method,online videos,64.69,18.2,100,4139,16.1,11.2
+Study Method,coaching,64.37,19.6,100,4026,15.7,10.8
+Study Method,textbook,64.24,14.5,100,4239,16.6,11.9
+Study Method,notes,63.9,18,100,4165,15.5,11.1
+Study Method,mixed,63.61,16.7,100,4341,15.5,12.3
+Study Method,group study,63.25,19.8,100,4090,14.2,13.5
+School Type,public,64.03,14.5,100,12275,15.6,11.9
+School Type,private,63.99,17.1,100,12725,15.6,11.7
+Internet Access,Yes,64.05,14.5,100,21227,15.4,11.7
+Internet Access,No,63.77,17.7,100,3773,16.5,12.5
+Extra Activities,Yes,64.15,17.7,100,12500,16.1,11.7
+Extra Activities,No,63.86,14.5,100,12500,15.1,11.9
