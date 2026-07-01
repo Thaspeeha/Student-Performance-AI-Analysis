@@ -154,7 +154,7 @@ The analysis could not verify factors such as:
 ---
 
 ## 🏆 Badge
-[![Badge](https://img.shields.io/badge/Udacity-Badge-blue)](https://github.com/Thaspeeha/Study-Burnout-Detector/blob/main/unnamed%20(1).jpg) 
+[![Badge](https://img.shields.io/badge/Udacity-Badge-blue)](https://github.com/Thaspeeha/Student-Performance-AI-Analysis/blob/main/unnamed.jpg) 
 
 <p align="center">
 
