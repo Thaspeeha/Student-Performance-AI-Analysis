@@ -11,7 +11,7 @@
 
 ## 📊 Dataset
 
-📁 **Dataset Source:** [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Student%20Performance-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ghadaalaasayedali/student-performance/input)
+📁 **Dataset:** [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Student%20Performance-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/ghadaalaasayedali/student-performance/input)
 
 🤖 **Analysis Platform:** AWS PartyRock
 
